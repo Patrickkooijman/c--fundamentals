@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6ac9caf3_002D6357_002D4afe_002D848b_002D8b06acc2f08b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FFBCF417-6696-C8AA-970D-3122565BB23E::net5.0::GradeBook.Tests.TypeTests.TwoVarsCanReferenceSameObject&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FFBCF417-6696-C8AA-970D-3122565BB23E::net5.0::GradeBook.Tests.TypeTests.CSharpIsPassByValue&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FFBCF417-6696-C8AA-970D-3122565BB23E::net5.0::GradeBook.Tests.TypeTests.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FFBCF417-6696-C8AA-970D-3122565BB23E::net5.0::GradeBook.Tests.BookTests.AddGradeShouldVerify&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FFBCF417-6696-C8AA-970D-3122565BB23E::net5.0::GradeBook.Tests.BookTests.BookCalculatesAnGrades&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FFBCF417-6696-C8AA-970D-3122565BB23E::net5.0::GradeBook.Tests.TypeTests.WriteLogDelegateCanPointToMethod&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
